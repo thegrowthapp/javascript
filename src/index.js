@@ -37,3 +37,5 @@ class TheGrowthApp {
     return endpoints
   }
 }
+
+export default TheGrowthApp

@@ -17,3 +17,5 @@ class Auth {
     return this._endpoints
   }
 }
+
+export default Auth
