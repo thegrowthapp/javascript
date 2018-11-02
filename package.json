@@ -1,0 +1,23 @@
+{
+  "name": "thegrowthapp",
+  "version": "1.0.0",
+  "description": "The Growth App API wrapper",
+  "main": "src/index.js",
+  "homepage": "https://api.thegrowthapp.com/v1",
+  "bugs": {
+    "url": "https://github.com/thegrowthapp/thegrowthapp-javascript/issues",
+    "email": "me@jonhue.me"
+  },
+  "repository": "https://github.com/thegrowthapp/thegrowthapp-javascript",
+  "author": "Jonas Hübotter <me@jonhue.me>",
+  "license": "MIT",
+  "scripts": {
+    "eslint": "eslint src/**/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
